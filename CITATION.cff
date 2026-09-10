@@ -21,9 +21,9 @@ authors:
     orcid: "https://orcid.org/0000-0002-5507-3608"
 license: MIT
 repository-code: "https://github.com/nazliakilli2/zebrafish-amplicon-methylation"
-version: "1.0.0"          # <FILL IN> match the GitHub release tag you archive
-date-released: "2026-01-01"   # <FILL IN> the release date
-# doi: "10.5281/zenodo.XXXXXXX"   # <FILL IN> after Zenodo mints the concept DOI
+version: "1.0.0"
+date-released: "2026-09-10"
+doi: "10.5281/zenodo.22696675"
 keywords:
   - DNA methylation
   - bisulfite sequencing

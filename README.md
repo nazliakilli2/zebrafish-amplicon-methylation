@@ -132,7 +132,7 @@ PROJECT_ROOT=/path/to/project Rscript scripts/02_dss_dmltest.R
 
   > *Code availability:* Analysis code is available at
   > https://github.com/nazliakilli2/zebrafish-amplicon-methylation and archived at Zenodo
-  > (https://doi.org/10.5281/zenodo.XXXXXXX). <!-- replace with the minted DOI -->
+  > (https://doi.org/10.5281/zenodo.22696675).
 
 - **Sequencing data.** Raw bisulfite-sequencing reads are deposited in
   <!-- SRA / GEO / ENA --> under accession <!-- accession number -->. The
