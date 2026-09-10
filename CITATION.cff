@@ -1,0 +1,47 @@
+# This file describes how to cite the analysis code in this repository.
+# It is read automatically by GitHub ("Cite this repository" button) and by
+# Zenodo when the repository is archived to mint a DOI.
+#
+# TODO — fill in the lines marked <FILL IN> when you cut the Zenodo release:
+#   - version / date-released: match the GitHub release tag you archive
+#   - doi:             add once Zenodo mints it (see README "Data and code availability")
+#   - preferred-citation: uncomment and complete once the paper has a DOI/volume
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Sublethal Fipronil and Cyfluthrin Exposure Induces Locus-Specific DNA Hypomethylation at Stress, Immune, and Xenobiotic-Response Genes in Adult Zebrafish — analysis code"
+abstract: >-
+  Analysis code for a targeted (amplicon) bisulfite-sequencing study of DNA
+  methylation in adult zebrafish (Danio rerio, GRCz11) exposed to sublethal
+  fipronil and cyfluthrin, across six amplicons (hsp70.1, hsp70.2, hsp70.3,
+  actb2, b2m, cyp1a). Differential methylation is called per CpG with DSS.
+type: software
+authors:
+  - family-names: "Akıllı"
+    given-names: "Nazlı"
+    orcid: "https://orcid.org/0000-0002-5507-3608"
+license: MIT
+repository-code: "https://github.com/nazliakilli2/zebrafish-amplicon-methylation"
+version: "1.0.0"          # <FILL IN> match the GitHub release tag you archive
+date-released: "2026-01-01"   # <FILL IN> the release date
+# doi: "10.5281/zenodo.XXXXXXX"   # <FILL IN> after Zenodo mints the concept DOI
+keywords:
+  - DNA methylation
+  - bisulfite sequencing
+  - amplicon sequencing
+  - zebrafish
+  - Danio rerio
+  - fipronil
+  - cyfluthrin
+  - DSS
+# Once the paper is published, add its citation here so "Cite this repository"
+# points readers to the article rather than the software:
+# preferred-citation:
+#   type: article
+#   title: "Sublethal Fipronil and Cyfluthrin Exposure Induces Locus-Specific DNA Hypomethylation at Stress, Immune, and Xenobiotic-Response Genes in Adult Zebrafish"
+#   authors:
+#     - family-names: "Akıllı"
+#       given-names: "Nazlı"
+#       orcid: "https://orcid.org/0000-0002-5507-3608"
+#   journal: "<journal>"
+#   year: 2026
+#   doi: "<paper DOI>"

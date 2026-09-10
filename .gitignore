@@ -1,0 +1,16 @@
+# --- data and generated outputs (kept out of version control) ---
+# The directories themselves are tracked via their .gitkeep files, but their
+# contents (count tables, DSS results, figures) are not committed.
+data/*
+results/*
+figures/*
+!data/.gitkeep
+!results/.gitkeep
+!figures/.gitkeep
+
+# --- R session / editor cruft ---
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+.DS_Store
